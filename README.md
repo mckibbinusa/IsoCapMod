@@ -1,4 +1,4 @@
-isocapmod
+IsoCapMod
 =========
 
 IsoCapMod Functions
