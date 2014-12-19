@@ -32,3 +32,7 @@ The IsoCapSynergy function returns the IsoCapMod synergy score as a conjoint of 
 The IsoCapHarm function returns the harmonic mean of IsoCapCoeff, IsoCapCoefs, and IsoCapCoefh.  As with the other functions, magnitude1, magnitude2, and magnitude3 represent CapMagf, CapMags, and CapMagh, in any order.  The syntax for entering the function into a worksheet is
 
 =IsoCapHarm(magnitude1,magnitude2,magnitude3)
+
+Follow the link below for more about Isoquantal Capital Modulation (IsoCapMod):
+
+http://amzn.com/1581122799
